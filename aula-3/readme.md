@@ -49,5 +49,3 @@ Calibra quantas das possíveis palavras serão utilizadas
 #### Top P
 
 Define qual a probabilidade agregada que será usada, qual a soma máxima que será tolerada
-
-## Gemini 1.5 Pro
